@@ -1,0 +1,114 @@
+[
+  {
+    "institute": "Public Sector Bank — SBI",
+    "branch": "Probationary Officer (PO)",
+    "category": "General",
+    "quota": "Mains",
+    "instituteType": "Public Sector Bank",
+    "records": [
+      { "year": 2023, "cutoffScore": 67.25 },
+      { "year": 2022, "cutoffScore": 66.50 },
+      { "year": 2021, "cutoffScore": 68.00 },
+      { "year": 2020, "cutoffScore": 65.50 },
+      { "year": 2019, "cutoffScore": 64.75 }
+    ]
+  },
+  {
+    "institute": "Public Sector Bank — SBI",
+    "branch": "Probationary Officer (PO)",
+    "category": "OBC",
+    "quota": "Mains",
+    "instituteType": "Public Sector Bank",
+    "records": [
+      { "year": 2023, "cutoffScore": 63.75 },
+      { "year": 2022, "cutoffScore": 62.50 },
+      { "year": 2021, "cutoffScore": 64.25 },
+      { "year": 2020, "cutoffScore": 61.50 },
+      { "year": 2019, "cutoffScore": 60.75 }
+    ]
+  },
+  {
+    "institute": "Public Sector Bank — SBI",
+    "branch": "Probationary Officer (PO)",
+    "category": "SC",
+    "quota": "Mains",
+    "instituteType": "Public Sector Bank",
+    "records": [
+      { "year": 2023, "cutoffScore": 57.50 },
+      { "year": 2022, "cutoffScore": 56.25 },
+      { "year": 2021, "cutoffScore": 58.00 },
+      { "year": 2020, "cutoffScore": 55.50 },
+      { "year": 2019, "cutoffScore": 54.75 }
+    ]
+  },
+  {
+    "institute": "Public Sector Bank — Bank of Baroda",
+    "branch": "Probationary Officer (PO)",
+    "category": "General",
+    "quota": "Mains",
+    "instituteType": "Public Sector Bank",
+    "records": [
+      { "year": 2023, "cutoffScore": 64.50 },
+      { "year": 2022, "cutoffScore": 63.75 },
+      { "year": 2021, "cutoffScore": 65.25 },
+      { "year": 2020, "cutoffScore": 62.75 },
+      { "year": 2019, "cutoffScore": 62.00 }
+    ]
+  },
+  {
+    "institute": "Public Sector Bank — Bank of Baroda",
+    "branch": "Probationary Officer (PO)",
+    "category": "OBC",
+    "quota": "Mains",
+    "instituteType": "Public Sector Bank",
+    "records": [
+      { "year": 2023, "cutoffScore": 60.50 },
+      { "year": 2022, "cutoffScore": 59.75 },
+      { "year": 2021, "cutoffScore": 61.25 },
+      { "year": 2020, "cutoffScore": 58.75 },
+      { "year": 2019, "cutoffScore": 58.00 }
+    ]
+  },
+  {
+    "institute": "Public Sector Bank — Punjab National Bank",
+    "branch": "Probationary Officer (PO)",
+    "category": "General",
+    "quota": "Mains",
+    "instituteType": "Public Sector Bank",
+    "records": [
+      { "year": 2023, "cutoffScore": 62.75 },
+      { "year": 2022, "cutoffScore": 62.00 },
+      { "year": 2021, "cutoffScore": 63.50 },
+      { "year": 2020, "cutoffScore": 61.00 },
+      { "year": 2019, "cutoffScore": 60.50 }
+    ]
+  },
+  {
+    "institute": "Public Sector Bank — Punjab National Bank",
+    "branch": "Probationary Officer (PO)",
+    "category": "SC",
+    "quota": "Mains",
+    "instituteType": "Public Sector Bank",
+    "records": [
+      { "year": 2023, "cutoffScore": 54.50 },
+      { "year": 2022, "cutoffScore": 53.75 },
+      { "year": 2021, "cutoffScore": 55.25 },
+      { "year": 2020, "cutoffScore": 53.00 },
+      { "year": 2019, "cutoffScore": 52.25 }
+    ]
+  },
+  {
+    "institute": "Public Sector Bank — Canara Bank",
+    "branch": "Probationary Officer (PO)",
+    "category": "General",
+    "quota": "Mains",
+    "instituteType": "Public Sector Bank",
+    "records": [
+      { "year": 2023, "cutoffScore": 61.25 },
+      { "year": 2022, "cutoffScore": 60.50 },
+      { "year": 2021, "cutoffScore": 62.00 },
+      { "year": 2020, "cutoffScore": 59.50 },
+      { "year": 2019, "cutoffScore": 58.75 }
+    ]
+  }
+]

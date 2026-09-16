@@ -1,0 +1,287 @@
+[
+  {
+    "institute": "IIT Bombay",
+    "instituteType": "IIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 1, "closingRank": 66 },
+      { "year": 2020, "openingRank": 1, "closingRank": 63 },
+      { "year": 2021, "openingRank": 1, "closingRank": 67 },
+      { "year": 2022, "openingRank": 1, "closingRank": 58 },
+      { "year": 2023, "openingRank": 1, "closingRank": 62 }
+    ]
+  },
+  {
+    "institute": "IIT Bombay",
+    "instituteType": "IIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OBC-NCL",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 1, "closingRank": 27 },
+      { "year": 2020, "openingRank": 1, "closingRank": 25 },
+      { "year": 2021, "openingRank": 1, "closingRank": 28 },
+      { "year": 2022, "openingRank": 1, "closingRank": 22 },
+      { "year": 2023, "openingRank": 1, "closingRank": 24 }
+    ]
+  },
+  {
+    "institute": "IIT Bombay",
+    "instituteType": "IIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "SC",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 1, "closingRank": 18 },
+      { "year": 2020, "openingRank": 1, "closingRank": 14 },
+      { "year": 2021, "openingRank": 1, "closingRank": 17 },
+      { "year": 2022, "openingRank": 1, "closingRank": 12 },
+      { "year": 2023, "openingRank": 1, "closingRank": 15 }
+    ]
+  },
+  {
+    "institute": "IIT Delhi",
+    "instituteType": "IIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 25, "closingRank": 118 },
+      { "year": 2020, "openingRank": 20, "closingRank": 112 },
+      { "year": 2021, "openingRank": 28, "closingRank": 120 },
+      { "year": 2022, "openingRank": 22, "closingRank": 108 },
+      { "year": 2023, "openingRank": 23, "closingRank": 115 }
+    ]
+  },
+  {
+    "institute": "IIT Delhi",
+    "instituteType": "IIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OBC-NCL",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 5, "closingRank": 52 },
+      { "year": 2020, "openingRank": 4, "closingRank": 48 },
+      { "year": 2021, "openingRank": 6, "closingRank": 54 },
+      { "year": 2022, "openingRank": 3, "closingRank": 45 },
+      { "year": 2023, "openingRank": 4, "closingRank": 50 }
+    ]
+  },
+  {
+    "institute": "IIT Madras",
+    "instituteType": "IIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 55, "closingRank": 178 },
+      { "year": 2020, "openingRank": 50, "closingRank": 165 },
+      { "year": 2021, "openingRank": 60, "closingRank": 182 },
+      { "year": 2022, "openingRank": 45, "closingRank": 158 },
+      { "year": 2023, "openingRank": 52, "closingRank": 174 }
+    ]
+  },
+  {
+    "institute": "IIT Kanpur",
+    "instituteType": "IIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 80, "closingRank": 220 },
+      { "year": 2020, "openingRank": 75, "closingRank": 208 },
+      { "year": 2021, "openingRank": 85, "closingRank": 228 },
+      { "year": 2022, "openingRank": 70, "closingRank": 198 },
+      { "year": 2023, "openingRank": 78, "closingRank": 215 }
+    ]
+  },
+  {
+    "institute": "IIT Roorkee",
+    "instituteType": "IIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 185, "closingRank": 420 },
+      { "year": 2020, "openingRank": 178, "closingRank": 402 },
+      { "year": 2021, "openingRank": 192, "closingRank": 435 },
+      { "year": 2022, "openingRank": 165, "closingRank": 388 },
+      { "year": 2023, "openingRank": 180, "closingRank": 415 }
+    ]
+  },
+  {
+    "institute": "IIT Roorkee",
+    "instituteType": "IIT",
+    "branch": "Electronics and Communication Engineering",
+    "branchCode": "ECE",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 560, "closingRank": 1050 },
+      { "year": 2020, "openingRank": 542, "closingRank": 1010 },
+      { "year": 2021, "openingRank": 580, "closingRank": 1080 },
+      { "year": 2022, "openingRank": 510, "closingRank": 980 },
+      { "year": 2023, "openingRank": 548, "closingRank": 1042 }
+    ]
+  },
+  {
+    "institute": "IIT Kharagpur",
+    "instituteType": "IIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 200, "closingRank": 480 },
+      { "year": 2020, "openingRank": 188, "closingRank": 462 },
+      { "year": 2021, "openingRank": 208, "closingRank": 495 },
+      { "year": 2022, "openingRank": 175, "closingRank": 445 },
+      { "year": 2023, "openingRank": 195, "closingRank": 470 }
+    ]
+  },
+  {
+    "institute": "IIT Kharagpur",
+    "instituteType": "IIT",
+    "branch": "Mechanical Engineering",
+    "branchCode": "ME",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 1100, "closingRank": 2400 },
+      { "year": 2020, "openingRank": 1050, "closingRank": 2280 },
+      { "year": 2021, "openingRank": 1140, "closingRank": 2460 },
+      { "year": 2022, "openingRank": 980, "closingRank": 2180 },
+      { "year": 2023, "openingRank": 1080, "closingRank": 2350 }
+    ]
+  },
+  {
+    "institute": "IIT Bombay",
+    "instituteType": "IIT",
+    "branch": "Electrical Engineering",
+    "branchCode": "EE",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 68, "closingRank": 195 },
+      { "year": 2020, "openingRank": 64, "closingRank": 182 },
+      { "year": 2021, "openingRank": 72, "closingRank": 200 },
+      { "year": 2022, "openingRank": 58, "closingRank": 172 },
+      { "year": 2023, "openingRank": 65, "closingRank": 190 }
+    ]
+  },
+  {
+    "institute": "IIT Delhi",
+    "instituteType": "IIT",
+    "branch": "Electrical Engineering",
+    "branchCode": "EE",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 120, "closingRank": 310 },
+      { "year": 2020, "openingRank": 112, "closingRank": 295 },
+      { "year": 2021, "openingRank": 128, "closingRank": 322 },
+      { "year": 2022, "openingRank": 105, "closingRank": 280 },
+      { "year": 2023, "openingRank": 115, "closingRank": 305 }
+    ]
+  },
+  {
+    "institute": "IIT Bombay",
+    "instituteType": "IIT",
+    "branch": "Mechanical Engineering",
+    "branchCode": "ME",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 380, "closingRank": 820 },
+      { "year": 2020, "openingRank": 360, "closingRank": 788 },
+      { "year": 2021, "openingRank": 395, "closingRank": 842 },
+      { "year": 2022, "openingRank": 340, "closingRank": 760 },
+      { "year": 2023, "openingRank": 368, "closingRank": 808 }
+    ]
+  },
+  {
+    "institute": "IIT Madras",
+    "instituteType": "IIT",
+    "branch": "Electronics and Communication Engineering",
+    "branchCode": "ECE",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 180, "closingRank": 420 },
+      { "year": 2020, "openingRank": 172, "closingRank": 400 },
+      { "year": 2021, "openingRank": 188, "closingRank": 435 },
+      { "year": 2022, "openingRank": 160, "closingRank": 382 },
+      { "year": 2023, "openingRank": 175, "closingRank": 410 }
+    ]
+  },
+  {
+    "institute": "IIT Kanpur",
+    "instituteType": "IIT",
+    "branch": "Electrical Engineering",
+    "branchCode": "EE",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 250, "closingRank": 580 },
+      { "year": 2020, "openingRank": 238, "closingRank": 552 },
+      { "year": 2021, "openingRank": 262, "closingRank": 598 },
+      { "year": 2022, "openingRank": 220, "closingRank": 528 },
+      { "year": 2023, "openingRank": 245, "closingRank": 570 }
+    ]
+  },
+  {
+    "institute": "IIT Delhi",
+    "instituteType": "IIT",
+    "branch": "Mechanical Engineering",
+    "branchCode": "ME",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 420, "closingRank": 980 },
+      { "year": 2020, "openingRank": 398, "closingRank": 942 },
+      { "year": 2021, "openingRank": 438, "closingRank": 1005 },
+      { "year": 2022, "openingRank": 375, "closingRank": 908 },
+      { "year": 2023, "openingRank": 410, "closingRank": 965 }
+    ]
+  },
+  {
+    "institute": "IIT Bombay",
+    "instituteType": "IIT",
+    "branch": "Chemical Engineering",
+    "branchCode": "CH",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 380, "closingRank": 850 },
+      { "year": 2020, "openingRank": 362, "closingRank": 820 },
+      { "year": 2021, "openingRank": 395, "closingRank": 872 },
+      { "year": 2022, "openingRank": 340, "closingRank": 790 },
+      { "year": 2023, "openingRank": 372, "closingRank": 842 }
+    ]
+  },
+  {
+    "institute": "IIT Delhi",
+    "instituteType": "IIT",
+    "branch": "Civil Engineering",
+    "branchCode": "CE",
+    "category": "OPEN",
+    "quota": "Gender-Neutral",
+    "records": [
+      { "year": 2019, "openingRank": 1200, "closingRank": 2650 },
+      { "year": 2020, "openingRank": 1142, "closingRank": 2520 },
+      { "year": 2021, "openingRank": 1255, "closingRank": 2710 },
+      { "year": 2022, "openingRank": 1080, "closingRank": 2420 },
+      { "year": 2023, "openingRank": 1175, "closingRank": 2590 }
+    ]
+  }
+]

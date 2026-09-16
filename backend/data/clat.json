@@ -1,0 +1,198 @@
+[
+  {
+    "institute": "NLU Delhi (NLU-D)",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "General",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 42 },
+      { "year": 2022, "closingRank": 38 },
+      { "year": 2021, "closingRank": 45 },
+      { "year": 2020, "closingRank": 50 },
+      { "year": 2019, "closingRank": 47 }
+    ]
+  },
+  {
+    "institute": "NLU Delhi (NLU-D)",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "OBC",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 120 },
+      { "year": 2022, "closingRank": 110 },
+      { "year": 2021, "closingRank": 130 },
+      { "year": 2020, "closingRank": 140 },
+      { "year": 2019, "closingRank": 135 }
+    ]
+  },
+  {
+    "institute": "NLU Delhi (NLU-D)",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "SC",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 320 },
+      { "year": 2022, "closingRank": 300 },
+      { "year": 2021, "closingRank": 340 },
+      { "year": 2020, "closingRank": 360 },
+      { "year": 2019, "closingRank": 345 }
+    ]
+  },
+  {
+    "institute": "NALSAR Hyderabad",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "General",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 95 },
+      { "year": 2022, "closingRank": 88 },
+      { "year": 2021, "closingRank": 102 },
+      { "year": 2020, "closingRank": 110 },
+      { "year": 2019, "closingRank": 105 }
+    ]
+  },
+  {
+    "institute": "NALSAR Hyderabad",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "OBC",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 280 },
+      { "year": 2022, "closingRank": 260 },
+      { "year": 2021, "closingRank": 295 },
+      { "year": 2020, "closingRank": 310 },
+      { "year": 2019, "closingRank": 298 }
+    ]
+  },
+  {
+    "institute": "NALSAR Hyderabad",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "SC",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 650 },
+      { "year": 2022, "closingRank": 620 },
+      { "year": 2021, "closingRank": 680 },
+      { "year": 2020, "closingRank": 710 },
+      { "year": 2019, "closingRank": 695 }
+    ]
+  },
+  {
+    "institute": "NLSIU Bangalore",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "General",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 60 },
+      { "year": 2022, "closingRank": 55 },
+      { "year": 2021, "closingRank": 65 },
+      { "year": 2020, "closingRank": 70 },
+      { "year": 2019, "closingRank": 68 }
+    ]
+  },
+  {
+    "institute": "NLSIU Bangalore",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "OBC",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 175 },
+      { "year": 2022, "closingRank": 162 },
+      { "year": 2021, "closingRank": 188 },
+      { "year": 2020, "closingRank": 200 },
+      { "year": 2019, "closingRank": 195 }
+    ]
+  },
+  {
+    "institute": "WBNUJS Kolkata",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "General",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 180 },
+      { "year": 2022, "closingRank": 165 },
+      { "year": 2021, "closingRank": 195 },
+      { "year": 2020, "closingRank": 210 },
+      { "year": 2019, "closingRank": 202 }
+    ]
+  },
+  {
+    "institute": "WBNUJS Kolkata",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "SC",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 820 },
+      { "year": 2022, "closingRank": 790 },
+      { "year": 2021, "closingRank": 850 },
+      { "year": 2020, "closingRank": 880 },
+      { "year": 2019, "closingRank": 860 }
+    ]
+  },
+  {
+    "institute": "NLU Jodhpur",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "General",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 350 },
+      { "year": 2022, "closingRank": 325 },
+      { "year": 2021, "closingRank": 372 },
+      { "year": 2020, "closingRank": 390 },
+      { "year": 2019, "closingRank": 380 }
+    ]
+  },
+  {
+    "institute": "NLU Jodhpur",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "OBC",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 850 },
+      { "year": 2022, "closingRank": 810 },
+      { "year": 2021, "closingRank": 890 },
+      { "year": 2020, "closingRank": 920 },
+      { "year": 2019, "closingRank": 905 }
+    ]
+  },
+  {
+    "institute": "NLU Lucknow (RMLNLU)",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "General",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 520 },
+      { "year": 2022, "closingRank": 490 },
+      { "year": 2021, "closingRank": 548 },
+      { "year": 2020, "closingRank": 570 },
+      { "year": 2019, "closingRank": 555 }
+    ]
+  },
+  {
+    "institute": "NLU Lucknow (RMLNLU)",
+    "branch": "B.A. LL.B. (Hons.)",
+    "category": "SC",
+    "quota": "All India",
+    "instituteType": "NLU",
+    "records": [
+      { "year": 2023, "closingRank": 1400 },
+      { "year": 2022, "closingRank": 1350 },
+      { "year": 2021, "closingRank": 1460 },
+      { "year": 2020, "closingRank": 1510 },
+      { "year": 2019, "closingRank": 1485 }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "institute": "IET Lucknow (Govt)",
+    "instituteType": "Govt",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "Home State (UP)",
+    "records": [
+      { "year": 2019, "openingRank": 4200, "closingRank": 8500 },
+      { "year": 2020, "openingRank": 4000, "closingRank": 8150 },
+      { "year": 2021, "openingRank": 4450, "closingRank": 8850 },
+      { "year": 2022, "openingRank": 3750, "closingRank": 7750 },
+      { "year": 2023, "openingRank": 4100, "closingRank": 8350 }
+    ]
+  },
+  {
+    "institute": "IET Lucknow (Govt)",
+    "instituteType": "Govt",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OBC",
+    "quota": "Home State (UP)",
+    "records": [
+      { "year": 2019, "openingRank": 1600, "closingRank": 3500 },
+      { "year": 2020, "openingRank": 1520, "closingRank": 3350 },
+      { "year": 2021, "openingRank": 1680, "closingRank": 3660 },
+      { "year": 2022, "openingRank": 1440, "closingRank": 3180 },
+      { "year": 2023, "openingRank": 1560, "closingRank": 3440 }
+    ]
+  },
+  {
+    "institute": "IET Lucknow (Govt)",
+    "instituteType": "Govt",
+    "branch": "Electronics and Communication Engineering",
+    "branchCode": "ECE",
+    "category": "OPEN",
+    "quota": "Home State (UP)",
+    "records": [
+      { "year": 2019, "openingRank": 9500, "closingRank": 18500 },
+      { "year": 2020, "openingRank": 9020, "closingRank": 17700 },
+      { "year": 2021, "openingRank": 9980, "closingRank": 19300 },
+      { "year": 2022, "openingRank": 8550, "closingRank": 16850 },
+      { "year": 2023, "openingRank": 9300, "closingRank": 18200 }
+    ]
+  },
+  {
+    "institute": "IET Lucknow (Govt)",
+    "instituteType": "Govt",
+    "branch": "Mechanical Engineering",
+    "branchCode": "ME",
+    "category": "OPEN",
+    "quota": "Home State (UP)",
+    "records": [
+      { "year": 2019, "openingRank": 22000, "closingRank": 42000 },
+      { "year": 2020, "openingRank": 20900, "closingRank": 40100 },
+      { "year": 2021, "openingRank": 23100, "closingRank": 44000 },
+      { "year": 2022, "openingRank": 19800, "closingRank": 38100 },
+      { "year": 2023, "openingRank": 21500, "closingRank": 41200 }
+    ]
+  },
+  {
+    "institute": "KNIT Sultanpur (Govt)",
+    "instituteType": "Govt",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "Home State (UP)",
+    "records": [
+      { "year": 2019, "openingRank": 12000, "closingRank": 25000 },
+      { "year": 2020, "openingRank": 11400, "closingRank": 23850 },
+      { "year": 2021, "openingRank": 12600, "closingRank": 26150 },
+      { "year": 2022, "openingRank": 10800, "closingRank": 22650 },
+      { "year": 2023, "openingRank": 11750, "closingRank": 24600 }
+    ]
+  },
+  {
+    "institute": "BIET Jhansi (Govt)",
+    "instituteType": "Govt",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "Home State (UP)",
+    "records": [
+      { "year": 2019, "openingRank": 18000, "closingRank": 38000 },
+      { "year": 2020, "openingRank": 17100, "closingRank": 36200 },
+      { "year": 2021, "openingRank": 18900, "closingRank": 39800 },
+      { "year": 2022, "openingRank": 16200, "closingRank": 34400 },
+      { "year": 2023, "openingRank": 17650, "closingRank": 37300 }
+    ]
+  },
+  {
+    "institute": "JSS Noida (Private)",
+    "instituteType": "Private",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "Home State (UP)",
+    "records": [
+      { "year": 2019, "openingRank": 25000, "closingRank": 55000 },
+      { "year": 2020, "openingRank": 23750, "closingRank": 52250 },
+      { "year": 2021, "openingRank": 26250, "closingRank": 57750 },
+      { "year": 2022, "openingRank": 22500, "closingRank": 49750 },
+      { "year": 2023, "openingRank": 24500, "closingRank": 54000 }
+    ]
+  },
+  {
+    "institute": "AKGEC Ghaziabad (Private)",
+    "instituteType": "Private",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "Home State (UP)",
+    "records": [
+      { "year": 2019, "openingRank": 30000, "closingRank": 65000 },
+      { "year": 2020, "openingRank": 28500, "closingRank": 61750 },
+      { "year": 2021, "openingRank": 31500, "closingRank": 68250 },
+      { "year": 2022, "openingRank": 27000, "closingRank": 58750 },
+      { "year": 2023, "openingRank": 29400, "closingRank": 63800 }
+    ]
+  },
+  {
+    "institute": "KIET Ghaziabad (Private)",
+    "instituteType": "Private",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "Home State (UP)",
+    "records": [
+      { "year": 2019, "openingRank": 28000, "closingRank": 60000 },
+      { "year": 2020, "openingRank": 26600, "closingRank": 57000 },
+      { "year": 2021, "openingRank": 29400, "closingRank": 63000 },
+      { "year": 2022, "openingRank": 25200, "closingRank": 54000 },
+      { "year": 2023, "openingRank": 27440, "closingRank": 58800 }
+    ]
+  },
+  {
+    "institute": "Galgotias University Greater Noida (Private)",
+    "instituteType": "Private",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "Home State (UP)",
+    "records": [
+      { "year": 2019, "openingRank": 40000, "closingRank": 85000 },
+      { "year": 2020, "openingRank": 38000, "closingRank": 80750 },
+      { "year": 2021, "openingRank": 42000, "closingRank": 89250 },
+      { "year": 2022, "openingRank": 36000, "closingRank": 76750 },
+      { "year": 2023, "openingRank": 39200, "closingRank": 83300 }
+    ]
+  },
+  {
+    "institute": "IET Lucknow (Govt)",
+    "instituteType": "Govt",
+    "branch": "Information Technology",
+    "branchCode": "IT",
+    "category": "OPEN",
+    "quota": "Home State (UP)",
+    "records": [
+      { "year": 2019, "openingRank": 6000, "closingRank": 12500 },
+      { "year": 2020, "openingRank": 5700, "closingRank": 11875 },
+      { "year": 2021, "openingRank": 6300, "closingRank": 13125 },
+      { "year": 2022, "openingRank": 5400, "closingRank": 11250 },
+      { "year": 2023, "openingRank": 5880, "closingRank": 12250 }
+    ]
+  },
+  {
+    "institute": "KNIT Sultanpur (Govt)",
+    "instituteType": "Govt",
+    "branch": "Electronics and Communication Engineering",
+    "branchCode": "ECE",
+    "category": "OPEN",
+    "quota": "Home State (UP)",
+    "records": [
+      { "year": 2019, "openingRank": 20000, "closingRank": 42000 },
+      { "year": 2020, "openingRank": 19000, "closingRank": 39900 },
+      { "year": 2021, "openingRank": 21000, "closingRank": 44100 },
+      { "year": 2022, "openingRank": 18000, "closingRank": 37800 },
+      { "year": 2023, "openingRank": 19600, "closingRank": 41200 }
+    ]
+  }
+]

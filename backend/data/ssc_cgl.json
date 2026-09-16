@@ -1,0 +1,167 @@
+[
+  {
+    "institute": "SSC CGL Combined Selection",
+    "instituteType": "Central Govt Dept",
+    "branch": "Assistant Section Officer (ASO) – CSS",
+    "branchCode": "ASO",
+    "category": "General",
+    "quota": "Tier-2 Final Cutoff",
+    "records": [
+      { "year": 2019, "cutoffScore": 416.25, "maxMarks": 500 },
+      { "year": 2020, "cutoffScore": 420.50, "maxMarks": 500 },
+      { "year": 2021, "cutoffScore": 411.0, "maxMarks": 500 },
+      { "year": 2022, "cutoffScore": 424.75, "maxMarks": 500 },
+      { "year": 2023, "cutoffScore": 418.25, "maxMarks": 500 }
+    ]
+  },
+  {
+    "institute": "SSC CGL Combined Selection",
+    "instituteType": "Central Govt Dept",
+    "branch": "Assistant Section Officer (ASO) – CSS",
+    "branchCode": "ASO",
+    "category": "OBC",
+    "quota": "Tier-2 Final Cutoff",
+    "records": [
+      { "year": 2019, "cutoffScore": 405.75, "maxMarks": 500 },
+      { "year": 2020, "cutoffScore": 410.25, "maxMarks": 500 },
+      { "year": 2021, "cutoffScore": 400.50, "maxMarks": 500 },
+      { "year": 2022, "cutoffScore": 414.50, "maxMarks": 500 },
+      { "year": 2023, "cutoffScore": 407.75, "maxMarks": 500 }
+    ]
+  },
+  {
+    "institute": "SSC CGL Combined Selection",
+    "instituteType": "Central Govt Dept",
+    "branch": "Assistant Section Officer (ASO) – CSS",
+    "branchCode": "ASO",
+    "category": "SC",
+    "quota": "Tier-2 Final Cutoff",
+    "records": [
+      { "year": 2019, "cutoffScore": 383.50, "maxMarks": 500 },
+      { "year": 2020, "cutoffScore": 388.00, "maxMarks": 500 },
+      { "year": 2021, "cutoffScore": 378.25, "maxMarks": 500 },
+      { "year": 2022, "cutoffScore": 391.75, "maxMarks": 500 },
+      { "year": 2023, "cutoffScore": 384.75, "maxMarks": 500 }
+    ]
+  },
+  {
+    "institute": "SSC CGL Combined Selection",
+    "instituteType": "Central Govt Dept",
+    "branch": "Inspector (Excise) – CBIC",
+    "branchCode": "INSPECTOR_EX",
+    "category": "General",
+    "quota": "Tier-2 Final Cutoff",
+    "records": [
+      { "year": 2019, "cutoffScore": 408.50, "maxMarks": 500 },
+      { "year": 2020, "cutoffScore": 412.75, "maxMarks": 500 },
+      { "year": 2021, "cutoffScore": 403.25, "maxMarks": 500 },
+      { "year": 2022, "cutoffScore": 416.00, "maxMarks": 500 },
+      { "year": 2023, "cutoffScore": 410.00, "maxMarks": 500 }
+    ]
+  },
+  {
+    "institute": "SSC CGL Combined Selection",
+    "instituteType": "Central Govt Dept",
+    "branch": "Inspector (Income Tax) – CBDT",
+    "branchCode": "INSPECTOR_IT",
+    "category": "General",
+    "quota": "Tier-2 Final Cutoff",
+    "records": [
+      { "year": 2019, "cutoffScore": 410.00, "maxMarks": 500 },
+      { "year": 2020, "cutoffScore": 414.50, "maxMarks": 500 },
+      { "year": 2021, "cutoffScore": 405.00, "maxMarks": 500 },
+      { "year": 2022, "cutoffScore": 418.25, "maxMarks": 500 },
+      { "year": 2023, "cutoffScore": 412.25, "maxMarks": 500 }
+    ]
+  },
+  {
+    "institute": "SSC CGL Combined Selection",
+    "instituteType": "Central Govt Dept",
+    "branch": "Auditor – CGDA / CAG",
+    "branchCode": "AUDITOR",
+    "category": "General",
+    "quota": "Tier-2 Final Cutoff",
+    "records": [
+      { "year": 2019, "cutoffScore": 380.25, "maxMarks": 500 },
+      { "year": 2020, "cutoffScore": 385.00, "maxMarks": 500 },
+      { "year": 2021, "cutoffScore": 375.50, "maxMarks": 500 },
+      { "year": 2022, "cutoffScore": 388.75, "maxMarks": 500 },
+      { "year": 2023, "cutoffScore": 381.75, "maxMarks": 500 }
+    ]
+  },
+  {
+    "institute": "SSC CGL Combined Selection",
+    "instituteType": "Central Govt Dept",
+    "branch": "Auditor – CGDA / CAG",
+    "branchCode": "AUDITOR",
+    "category": "OBC",
+    "quota": "Tier-2 Final Cutoff",
+    "records": [
+      { "year": 2019, "cutoffScore": 368.00, "maxMarks": 500 },
+      { "year": 2020, "cutoffScore": 373.25, "maxMarks": 500 },
+      { "year": 2021, "cutoffScore": 363.75, "maxMarks": 500 },
+      { "year": 2022, "cutoffScore": 376.50, "maxMarks": 500 },
+      { "year": 2023, "cutoffScore": 369.50, "maxMarks": 500 }
+    ]
+  },
+  {
+    "institute": "SSC CGL Combined Selection",
+    "instituteType": "Central Govt Dept",
+    "branch": "Sub-Inspector (CBI)",
+    "branchCode": "SI_CBI",
+    "category": "General",
+    "quota": "Tier-2 Final Cutoff",
+    "records": [
+      { "year": 2019, "cutoffScore": 418.75, "maxMarks": 500 },
+      { "year": 2020, "cutoffScore": 422.50, "maxMarks": 500 },
+      { "year": 2021, "cutoffScore": 413.25, "maxMarks": 500 },
+      { "year": 2022, "cutoffScore": 426.00, "maxMarks": 500 },
+      { "year": 2023, "cutoffScore": 419.75, "maxMarks": 500 }
+    ]
+  },
+  {
+    "institute": "SSC CGL Tier-1 Qualifying",
+    "instituteType": "Central Govt Dept",
+    "branch": "Tier-1 Qualifying Score (All Posts)",
+    "branchCode": "TIER1",
+    "category": "General",
+    "quota": "Tier-1 Cutoff",
+    "records": [
+      { "year": 2019, "cutoffScore": 152.50, "maxMarks": 200 },
+      { "year": 2020, "cutoffScore": 149.25, "maxMarks": 200 },
+      { "year": 2021, "cutoffScore": 145.00, "maxMarks": 200 },
+      { "year": 2022, "cutoffScore": 155.00, "maxMarks": 200 },
+      { "year": 2023, "cutoffScore": 150.75, "maxMarks": 200 }
+    ]
+  },
+  {
+    "institute": "SSC CGL Tier-1 Qualifying",
+    "instituteType": "Central Govt Dept",
+    "branch": "Tier-1 Qualifying Score (All Posts)",
+    "branchCode": "TIER1",
+    "category": "OBC",
+    "quota": "Tier-1 Cutoff",
+    "records": [
+      { "year": 2019, "cutoffScore": 146.50, "maxMarks": 200 },
+      { "year": 2020, "cutoffScore": 143.75, "maxMarks": 200 },
+      { "year": 2021, "cutoffScore": 139.75, "maxMarks": 200 },
+      { "year": 2022, "cutoffScore": 149.00, "maxMarks": 200 },
+      { "year": 2023, "cutoffScore": 145.00, "maxMarks": 200 }
+    ]
+  },
+  {
+    "institute": "SSC CGL Tier-1 Qualifying",
+    "instituteType": "Central Govt Dept",
+    "branch": "Tier-1 Qualifying Score (All Posts)",
+    "branchCode": "TIER1",
+    "category": "SC",
+    "quota": "Tier-1 Cutoff",
+    "records": [
+      { "year": 2019, "cutoffScore": 130.25, "maxMarks": 200 },
+      { "year": 2020, "cutoffScore": 128.00, "maxMarks": 200 },
+      { "year": 2021, "cutoffScore": 124.50, "maxMarks": 200 },
+      { "year": 2022, "cutoffScore": 132.75, "maxMarks": 200 },
+      { "year": 2023, "cutoffScore": 129.25, "maxMarks": 200 }
+    ]
+  }
+]

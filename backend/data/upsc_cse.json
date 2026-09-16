@@ -1,0 +1,136 @@
+[
+  {
+    "institute": "UPSC Civil Services Examination",
+    "instituteType": "Central Govt",
+    "branch": "Prelims (GS Paper I)",
+    "branchCode": "PRELIMS",
+    "category": "General",
+    "quota": "Stage",
+    "records": [
+      { "year": 2019, "cutoffScore": 98.0, "maxMarks": 200 },
+      { "year": 2020, "cutoffScore": 92.51, "maxMarks": 200 },
+      { "year": 2021, "cutoffScore": 87.54, "maxMarks": 200 },
+      { "year": 2022, "cutoffScore": 88.0, "maxMarks": 200 },
+      { "year": 2023, "cutoffScore": 91.0, "maxMarks": 200 }
+    ]
+  },
+  {
+    "institute": "UPSC Civil Services Examination",
+    "instituteType": "Central Govt",
+    "branch": "Prelims (GS Paper I)",
+    "branchCode": "PRELIMS",
+    "category": "OBC",
+    "quota": "Stage",
+    "records": [
+      { "year": 2019, "cutoffScore": 96.0, "maxMarks": 200 },
+      { "year": 2020, "cutoffScore": 90.51, "maxMarks": 200 },
+      { "year": 2021, "cutoffScore": 84.54, "maxMarks": 200 },
+      { "year": 2022, "cutoffScore": 85.0, "maxMarks": 200 },
+      { "year": 2023, "cutoffScore": 88.0, "maxMarks": 200 }
+    ]
+  },
+  {
+    "institute": "UPSC Civil Services Examination",
+    "instituteType": "Central Govt",
+    "branch": "Prelims (GS Paper I)",
+    "branchCode": "PRELIMS",
+    "category": "SC",
+    "quota": "Stage",
+    "records": [
+      { "year": 2019, "cutoffScore": 82.0, "maxMarks": 200 },
+      { "year": 2020, "cutoffScore": 72.51, "maxMarks": 200 },
+      { "year": 2021, "cutoffScore": 68.54, "maxMarks": 200 },
+      { "year": 2022, "cutoffScore": 70.0, "maxMarks": 200 },
+      { "year": 2023, "cutoffScore": 73.0, "maxMarks": 200 }
+    ]
+  },
+  {
+    "institute": "UPSC Civil Services Examination",
+    "instituteType": "Central Govt",
+    "branch": "Prelims (GS Paper I)",
+    "branchCode": "PRELIMS",
+    "category": "ST",
+    "quota": "Stage",
+    "records": [
+      { "year": 2019, "cutoffScore": 77.34, "maxMarks": 200 },
+      { "year": 2020, "cutoffScore": 66.51, "maxMarks": 200 },
+      { "year": 2021, "cutoffScore": 62.54, "maxMarks": 200 },
+      { "year": 2022, "cutoffScore": 64.0, "maxMarks": 200 },
+      { "year": 2023, "cutoffScore": 67.0, "maxMarks": 200 }
+    ]
+  },
+  {
+    "institute": "UPSC Civil Services Examination",
+    "instituteType": "Central Govt",
+    "branch": "Final (Written + Interview)",
+    "branchCode": "FINAL",
+    "category": "General",
+    "quota": "Stage",
+    "records": [
+      { "year": 2019, "cutoffScore": 961, "maxMarks": 2025 },
+      { "year": 2020, "cutoffScore": 930, "maxMarks": 2025 },
+      { "year": 2021, "cutoffScore": 888, "maxMarks": 2025 },
+      { "year": 2022, "cutoffScore": 919, "maxMarks": 2025 },
+      { "year": 2023, "cutoffScore": 945, "maxMarks": 2025 }
+    ]
+  },
+  {
+    "institute": "UPSC Civil Services Examination",
+    "instituteType": "Central Govt",
+    "branch": "Final (Written + Interview)",
+    "branchCode": "FINAL",
+    "category": "OBC",
+    "quota": "Stage",
+    "records": [
+      { "year": 2019, "cutoffScore": 939, "maxMarks": 2025 },
+      { "year": 2020, "cutoffScore": 912, "maxMarks": 2025 },
+      { "year": 2021, "cutoffScore": 872, "maxMarks": 2025 },
+      { "year": 2022, "cutoffScore": 900, "maxMarks": 2025 },
+      { "year": 2023, "cutoffScore": 924, "maxMarks": 2025 }
+    ]
+  },
+  {
+    "institute": "UPSC Civil Services Examination",
+    "instituteType": "Central Govt",
+    "branch": "Final (Written + Interview)",
+    "branchCode": "FINAL",
+    "category": "SC",
+    "quota": "Stage",
+    "records": [
+      { "year": 2019, "cutoffScore": 902, "maxMarks": 2025 },
+      { "year": 2020, "cutoffScore": 875, "maxMarks": 2025 },
+      { "year": 2021, "cutoffScore": 834, "maxMarks": 2025 },
+      { "year": 2022, "cutoffScore": 861, "maxMarks": 2025 },
+      { "year": 2023, "cutoffScore": 885, "maxMarks": 2025 }
+    ]
+  },
+  {
+    "institute": "UPSC Civil Services Examination",
+    "instituteType": "Central Govt",
+    "branch": "Final (Written + Interview)",
+    "branchCode": "FINAL",
+    "category": "ST",
+    "quota": "Stage",
+    "records": [
+      { "year": 2019, "cutoffScore": 893, "maxMarks": 2025 },
+      { "year": 2020, "cutoffScore": 864, "maxMarks": 2025 },
+      { "year": 2021, "cutoffScore": 822, "maxMarks": 2025 },
+      { "year": 2022, "cutoffScore": 848, "maxMarks": 2025 },
+      { "year": 2023, "cutoffScore": 873, "maxMarks": 2025 }
+    ]
+  },
+  {
+    "institute": "UPSC Civil Services Examination",
+    "instituteType": "Central Govt",
+    "branch": "Final (Written + Interview)",
+    "branchCode": "FINAL",
+    "category": "EWS",
+    "quota": "Stage",
+    "records": [
+      { "year": 2020, "cutoffScore": 920, "maxMarks": 2025 },
+      { "year": 2021, "cutoffScore": 879, "maxMarks": 2025 },
+      { "year": 2022, "cutoffScore": 908, "maxMarks": 2025 },
+      { "year": 2023, "cutoffScore": 932, "maxMarks": 2025 }
+    ]
+  }
+]

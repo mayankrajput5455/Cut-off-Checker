@@ -1,0 +1,114 @@
+[
+  {
+    "institute": "National Defence Academy (NDA)",
+    "branch": "Army Wing",
+    "category": "General",
+    "quota": "NDA-I",
+    "instituteType": "Defence Academy",
+    "records": [
+      { "year": 2023, "cutoffScore": 360 },
+      { "year": 2022, "cutoffScore": 355 },
+      { "year": 2021, "cutoffScore": 343 },
+      { "year": 2020, "cutoffScore": 355 },
+      { "year": 2019, "cutoffScore": 342 }
+    ]
+  },
+  {
+    "institute": "National Defence Academy (NDA)",
+    "branch": "Army Wing",
+    "category": "General",
+    "quota": "NDA-II",
+    "instituteType": "Defence Academy",
+    "records": [
+      { "year": 2023, "cutoffScore": 370 },
+      { "year": 2022, "cutoffScore": 365 },
+      { "year": 2021, "cutoffScore": 355 },
+      { "year": 2020, "cutoffScore": 365 },
+      { "year": 2019, "cutoffScore": 352 }
+    ]
+  },
+  {
+    "institute": "National Defence Academy (NDA)",
+    "branch": "Naval Wing",
+    "category": "General",
+    "quota": "NDA-I",
+    "instituteType": "Defence Academy",
+    "records": [
+      { "year": 2023, "cutoffScore": 383 },
+      { "year": 2022, "cutoffScore": 378 },
+      { "year": 2021, "cutoffScore": 365 },
+      { "year": 2020, "cutoffScore": 377 },
+      { "year": 2019, "cutoffScore": 362 }
+    ]
+  },
+  {
+    "institute": "National Defence Academy (NDA)",
+    "branch": "Naval Wing",
+    "category": "General",
+    "quota": "NDA-II",
+    "instituteType": "Defence Academy",
+    "records": [
+      { "year": 2023, "cutoffScore": 395 },
+      { "year": 2022, "cutoffScore": 390 },
+      { "year": 2021, "cutoffScore": 378 },
+      { "year": 2020, "cutoffScore": 388 },
+      { "year": 2019, "cutoffScore": 372 }
+    ]
+  },
+  {
+    "institute": "National Defence Academy (NDA)",
+    "branch": "Air Force Wing",
+    "category": "General",
+    "quota": "NDA-I",
+    "instituteType": "Defence Academy",
+    "records": [
+      { "year": 2023, "cutoffScore": 395 },
+      { "year": 2022, "cutoffScore": 388 },
+      { "year": 2021, "cutoffScore": 376 },
+      { "year": 2020, "cutoffScore": 387 },
+      { "year": 2019, "cutoffScore": 372 }
+    ]
+  },
+  {
+    "institute": "National Defence Academy (NDA)",
+    "branch": "Air Force Wing",
+    "category": "General",
+    "quota": "NDA-II",
+    "instituteType": "Defence Academy",
+    "records": [
+      { "year": 2023, "cutoffScore": 408 },
+      { "year": 2022, "cutoffScore": 402 },
+      { "year": 2021, "cutoffScore": 390 },
+      { "year": 2020, "cutoffScore": 400 },
+      { "year": 2019, "cutoffScore": 385 }
+    ]
+  },
+  {
+    "institute": "Naval Academy (NA)",
+    "branch": "10+2 Cadet Entry",
+    "category": "General",
+    "quota": "NDA-I",
+    "instituteType": "Defence Academy",
+    "records": [
+      { "year": 2023, "cutoffScore": 370 },
+      { "year": 2022, "cutoffScore": 365 },
+      { "year": 2021, "cutoffScore": 352 },
+      { "year": 2020, "cutoffScore": 364 },
+      { "year": 2019, "cutoffScore": 350 }
+    ]
+  },
+  {
+    "institute": "Naval Academy (NA)",
+    "branch": "10+2 Cadet Entry",
+    "category": "General",
+    "quota": "NDA-II",
+    "instituteType": "Defence Academy",
+    "records": [
+      { "year": 2023, "cutoffScore": 382 },
+      { "year": 2022, "cutoffScore": 377 },
+      { "year": 2021, "cutoffScore": 363 },
+      { "year": 2020, "cutoffScore": 374 },
+      { "year": 2019, "cutoffScore": 360 }
+    ]
+  }
+]

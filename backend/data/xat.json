@@ -1,0 +1,100 @@
+[
+  {
+    "institute": "XLRI — Xavier School of Management",
+    "branch": "Business Management (BM)",
+    "category": "General",
+    "quota": "Open",
+    "instituteType": "Top B-School",
+    "records": [
+      { "year": 2023, "closingPercentile": 96.5 },
+      { "year": 2022, "closingPercentile": 96.0 },
+      { "year": 2021, "closingPercentile": 97.0 },
+      { "year": 2020, "closingPercentile": 95.5 },
+      { "year": 2019, "closingPercentile": 95.0 }
+    ]
+  },
+  {
+    "institute": "XLRI — Xavier School of Management",
+    "branch": "Business Management (BM)",
+    "category": "NC-OBC",
+    "quota": "Open",
+    "instituteType": "Top B-School",
+    "records": [
+      { "year": 2023, "closingPercentile": 93.5 },
+      { "year": 2022, "closingPercentile": 93.0 },
+      { "year": 2021, "closingPercentile": 94.0 },
+      { "year": 2020, "closingPercentile": 92.5 },
+      { "year": 2019, "closingPercentile": 92.0 }
+    ]
+  },
+  {
+    "institute": "XLRI — Xavier School of Management",
+    "branch": "Human Resource Management (HRM)",
+    "category": "General",
+    "quota": "Open",
+    "instituteType": "Top B-School",
+    "records": [
+      { "year": 2023, "closingPercentile": 94.0 },
+      { "year": 2022, "closingPercentile": 93.5 },
+      { "year": 2021, "closingPercentile": 94.5 },
+      { "year": 2020, "closingPercentile": 93.0 },
+      { "year": 2019, "closingPercentile": 92.5 }
+    ]
+  },
+  {
+    "institute": "SP Jain Institute of Management & Research (SPJIMR)",
+    "branch": "Post Graduate Management Programme (PGMP)",
+    "category": "General",
+    "quota": "Open",
+    "instituteType": "Top B-School",
+    "records": [
+      { "year": 2023, "closingPercentile": 90.0 },
+      { "year": 2022, "closingPercentile": 89.5 },
+      { "year": 2021, "closingPercentile": 90.5 },
+      { "year": 2020, "closingPercentile": 89.0 },
+      { "year": 2019, "closingPercentile": 88.5 }
+    ]
+  },
+  {
+    "institute": "Institute of Management Technology (IMT) Ghaziabad",
+    "branch": "MBA (Full-Time)",
+    "category": "General",
+    "quota": "Open",
+    "instituteType": "Top B-School",
+    "records": [
+      { "year": 2023, "closingPercentile": 85.0 },
+      { "year": 2022, "closingPercentile": 84.5 },
+      { "year": 2021, "closingPercentile": 85.5 },
+      { "year": 2020, "closingPercentile": 84.0 },
+      { "year": 2019, "closingPercentile": 83.5 }
+    ]
+  },
+  {
+    "institute": "Great Lakes Institute of Management",
+    "branch": "PGPM (Full-Time)",
+    "category": "General",
+    "quota": "Open",
+    "instituteType": "Top B-School",
+    "records": [
+      { "year": 2023, "closingPercentile": 80.0 },
+      { "year": 2022, "closingPercentile": 79.5 },
+      { "year": 2021, "closingPercentile": 80.5 },
+      { "year": 2020, "closingPercentile": 79.0 },
+      { "year": 2019, "closingPercentile": 78.5 }
+    ]
+  },
+  {
+    "institute": "MICA (The School of Ideas)",
+    "branch": "PGDM-C (Communications Management)",
+    "category": "General",
+    "quota": "Open",
+    "instituteType": "Top B-School",
+    "records": [
+      { "year": 2023, "closingPercentile": 78.0 },
+      { "year": 2022, "closingPercentile": 77.5 },
+      { "year": 2021, "closingPercentile": 78.5 },
+      { "year": 2020, "closingPercentile": 77.0 },
+      { "year": 2019, "closingPercentile": 76.5 }
+    ]
+  }
+]

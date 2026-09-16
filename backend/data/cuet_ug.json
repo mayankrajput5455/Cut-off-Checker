@@ -1,0 +1,156 @@
+[
+  {
+    "institute": "Delhi University (DU) — North Campus",
+    "branch": "B.Com (Honours)",
+    "category": "General",
+    "quota": "Central",
+    "instituteType": "Central University",
+    "records": [
+      { "year": 2023, "closingPercentile": 99.5 },
+      { "year": 2022, "closingPercentile": 99.3 },
+      { "year": 2021, "closingPercentile": 99.6 },
+      { "year": 2020, "closingPercentile": 99.2 },
+      { "year": 2019, "closingPercentile": 99.0 }
+    ]
+  },
+  {
+    "institute": "Delhi University (DU) — North Campus",
+    "branch": "B.A. (Honours) Economics",
+    "category": "General",
+    "quota": "Central",
+    "instituteType": "Central University",
+    "records": [
+      { "year": 2023, "closingPercentile": 99.2 },
+      { "year": 2022, "closingPercentile": 99.0 },
+      { "year": 2021, "closingPercentile": 99.4 },
+      { "year": 2020, "closingPercentile": 98.9 },
+      { "year": 2019, "closingPercentile": 98.7 }
+    ]
+  },
+  {
+    "institute": "Delhi University (DU) — North Campus",
+    "branch": "B.A. (Honours) Economics",
+    "category": "OBC",
+    "quota": "Central",
+    "instituteType": "Central University",
+    "records": [
+      { "year": 2023, "closingPercentile": 98.5 },
+      { "year": 2022, "closingPercentile": 98.2 },
+      { "year": 2021, "closingPercentile": 98.8 },
+      { "year": 2020, "closingPercentile": 98.0 },
+      { "year": 2019, "closingPercentile": 97.8 }
+    ]
+  },
+  {
+    "institute": "Delhi University (DU) — South Campus",
+    "branch": "B.Sc. (Honours) Mathematics",
+    "category": "General",
+    "quota": "Central",
+    "instituteType": "Central University",
+    "records": [
+      { "year": 2023, "closingPercentile": 98.8 },
+      { "year": 2022, "closingPercentile": 98.5 },
+      { "year": 2021, "closingPercentile": 99.0 },
+      { "year": 2020, "closingPercentile": 98.3 },
+      { "year": 2019, "closingPercentile": 98.0 }
+    ]
+  },
+  {
+    "institute": "Delhi University (DU) — South Campus",
+    "branch": "B.Sc. (Honours) Mathematics",
+    "category": "SC",
+    "quota": "Central",
+    "instituteType": "Central University",
+    "records": [
+      { "year": 2023, "closingPercentile": 95.5 },
+      { "year": 2022, "closingPercentile": 95.0 },
+      { "year": 2021, "closingPercentile": 96.0 },
+      { "year": 2020, "closingPercentile": 94.8 },
+      { "year": 2019, "closingPercentile": 94.5 }
+    ]
+  },
+  {
+    "institute": "Jawaharlal Nehru University (JNU)",
+    "branch": "B.A. (Honours) Hindi",
+    "category": "General",
+    "quota": "Central",
+    "instituteType": "Central University",
+    "records": [
+      { "year": 2023, "closingPercentile": 97.0 },
+      { "year": 2022, "closingPercentile": 96.5 },
+      { "year": 2021, "closingPercentile": 97.5 },
+      { "year": 2020, "closingPercentile": 96.2 },
+      { "year": 2019, "closingPercentile": 95.8 }
+    ]
+  },
+  {
+    "institute": "Jawaharlal Nehru University (JNU)",
+    "branch": "B.A. (Honours) Political Science",
+    "category": "General",
+    "quota": "Central",
+    "instituteType": "Central University",
+    "records": [
+      { "year": 2023, "closingPercentile": 98.2 },
+      { "year": 2022, "closingPercentile": 97.9 },
+      { "year": 2021, "closingPercentile": 98.5 },
+      { "year": 2020, "closingPercentile": 97.6 },
+      { "year": 2019, "closingPercentile": 97.3 }
+    ]
+  },
+  {
+    "institute": "Banaras Hindu University (BHU)",
+    "branch": "B.Sc. (Honours) Physics",
+    "category": "General",
+    "quota": "Central",
+    "instituteType": "Central University",
+    "records": [
+      { "year": 2023, "closingPercentile": 96.0 },
+      { "year": 2022, "closingPercentile": 95.5 },
+      { "year": 2021, "closingPercentile": 96.5 },
+      { "year": 2020, "closingPercentile": 95.0 },
+      { "year": 2019, "closingPercentile": 94.8 }
+    ]
+  },
+  {
+    "institute": "Banaras Hindu University (BHU)",
+    "branch": "B.Com (Honours)",
+    "category": "OBC",
+    "quota": "Central",
+    "instituteType": "Central University",
+    "records": [
+      { "year": 2023, "closingPercentile": 93.5 },
+      { "year": 2022, "closingPercentile": 93.0 },
+      { "year": 2021, "closingPercentile": 94.0 },
+      { "year": 2020, "closingPercentile": 92.5 },
+      { "year": 2019, "closingPercentile": 92.0 }
+    ]
+  },
+  {
+    "institute": "Hyderabad Central University (HCU)",
+    "branch": "B.A. (Honours) English",
+    "category": "General",
+    "quota": "Central",
+    "instituteType": "Central University",
+    "records": [
+      { "year": 2023, "closingPercentile": 94.0 },
+      { "year": 2022, "closingPercentile": 93.5 },
+      { "year": 2021, "closingPercentile": 94.5 },
+      { "year": 2020, "closingPercentile": 93.0 },
+      { "year": 2019, "closingPercentile": 92.5 }
+    ]
+  },
+  {
+    "institute": "Hyderabad Central University (HCU)",
+    "branch": "B.Sc. (Honours) Life Sciences",
+    "category": "SC",
+    "quota": "Central",
+    "instituteType": "Central University",
+    "records": [
+      { "year": 2023, "closingPercentile": 88.0 },
+      { "year": 2022, "closingPercentile": 87.5 },
+      { "year": 2021, "closingPercentile": 88.5 },
+      { "year": 2020, "closingPercentile": 87.0 },
+      { "year": 2019, "closingPercentile": 86.5 }
+    ]
+  }
+]

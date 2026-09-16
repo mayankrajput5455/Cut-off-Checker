@@ -1,0 +1,152 @@
+[
+  {
+    "institute": "AIIMS New Delhi",
+    "instituteType": "AIIMS",
+    "branch": "MBBS",
+    "branchCode": "MBBS",
+    "category": "OPEN",
+    "quota": "All India Quota (AIQ)",
+    "records": [
+      { "year": 2019, "openingRank": 1, "closingRank": 55, "closingScore": 695 },
+      { "year": 2020, "openingRank": 1, "closingRank": 52, "closingScore": 697 },
+      { "year": 2021, "openingRank": 1, "closingRank": 58, "closingScore": 692 },
+      { "year": 2022, "openingRank": 1, "closingRank": 50, "closingScore": 700 },
+      { "year": 2023, "openingRank": 1, "closingRank": 54, "closingScore": 696 }
+    ]
+  },
+  {
+    "institute": "AIIMS New Delhi",
+    "instituteType": "AIIMS",
+    "branch": "MBBS",
+    "branchCode": "MBBS",
+    "category": "OBC",
+    "quota": "All India Quota (AIQ)",
+    "records": [
+      { "year": 2019, "openingRank": 12, "closingRank": 180, "closingScore": 668 },
+      { "year": 2020, "openingRank": 10, "closingRank": 168, "closingScore": 671 },
+      { "year": 2021, "openingRank": 14, "closingRank": 188, "closingScore": 664 },
+      { "year": 2022, "openingRank": 8, "closingRank": 160, "closingScore": 675 },
+      { "year": 2023, "openingRank": 11, "closingRank": 175, "closingScore": 670 }
+    ]
+  },
+  {
+    "institute": "AIIMS New Delhi",
+    "instituteType": "AIIMS",
+    "branch": "MBBS",
+    "branchCode": "MBBS",
+    "category": "SC",
+    "quota": "All India Quota (AIQ)",
+    "records": [
+      { "year": 2019, "openingRank": 22, "closingRank": 320, "closingScore": 645 },
+      { "year": 2020, "openingRank": 20, "closingRank": 298, "closingScore": 650 },
+      { "year": 2021, "openingRank": 24, "closingRank": 338, "closingScore": 640 },
+      { "year": 2022, "openingRank": 18, "closingRank": 280, "closingScore": 655 },
+      { "year": 2023, "openingRank": 21, "closingRank": 312, "closingScore": 648 }
+    ]
+  },
+  {
+    "institute": "Maulana Azad Medical College (MAMC), Delhi",
+    "instituteType": "Govt Medical College",
+    "branch": "MBBS",
+    "branchCode": "MBBS",
+    "category": "OPEN",
+    "quota": "All India Quota (AIQ)",
+    "records": [
+      { "year": 2019, "openingRank": 32, "closingRank": 420, "closingScore": 641 },
+      { "year": 2020, "openingRank": 28, "closingRank": 395, "closingScore": 645 },
+      { "year": 2021, "openingRank": 38, "closingRank": 448, "closingScore": 637 },
+      { "year": 2022, "openingRank": 25, "closingRank": 375, "closingScore": 649 },
+      { "year": 2023, "openingRank": 30, "closingRank": 410, "closingScore": 643 }
+    ]
+  },
+  {
+    "institute": "King George Medical University (KGMU), Lucknow",
+    "instituteType": "Govt Medical College",
+    "branch": "MBBS",
+    "branchCode": "MBBS",
+    "category": "OPEN",
+    "quota": "All India Quota (AIQ)",
+    "records": [
+      { "year": 2019, "openingRank": 280, "closingRank": 2800, "closingScore": 592 },
+      { "year": 2020, "openingRank": 265, "closingRank": 2650, "closingScore": 596 },
+      { "year": 2021, "openingRank": 298, "closingRank": 2950, "closingScore": 588 },
+      { "year": 2022, "openingRank": 245, "closingRank": 2500, "closingScore": 600 },
+      { "year": 2023, "openingRank": 272, "closingRank": 2750, "closingScore": 594 }
+    ]
+  },
+  {
+    "institute": "King George Medical University (KGMU), Lucknow",
+    "instituteType": "Govt Medical College",
+    "branch": "MBBS",
+    "branchCode": "MBBS",
+    "category": "OBC",
+    "quota": "All India Quota (AIQ)",
+    "records": [
+      { "year": 2019, "openingRank": 95, "closingRank": 1100, "closingScore": 572 },
+      { "year": 2020, "openingRank": 90, "closingRank": 1040, "closingScore": 576 },
+      { "year": 2021, "openingRank": 102, "closingRank": 1155, "closingScore": 568 },
+      { "year": 2022, "openingRank": 82, "closingRank": 985, "closingScore": 580 },
+      { "year": 2023, "openingRank": 92, "closingRank": 1080, "closingScore": 574 }
+    ]
+  },
+  {
+    "institute": "Safdarjung Hospital & VMM College",
+    "instituteType": "Govt Medical College",
+    "branch": "MBBS",
+    "branchCode": "MBBS",
+    "category": "OPEN",
+    "quota": "All India Quota (AIQ)",
+    "records": [
+      { "year": 2019, "openingRank": 55, "closingRank": 620, "closingScore": 635 },
+      { "year": 2020, "openingRank": 52, "closingRank": 590, "closingScore": 638 },
+      { "year": 2021, "openingRank": 59, "closingRank": 648, "closingScore": 631 },
+      { "year": 2022, "openingRank": 48, "closingRank": 560, "closingScore": 641 },
+      { "year": 2023, "openingRank": 53, "closingRank": 610, "closingScore": 637 }
+    ]
+  },
+  {
+    "institute": "Grant Medical College (GMC), Mumbai",
+    "instituteType": "Govt Medical College",
+    "branch": "MBBS",
+    "branchCode": "MBBS",
+    "category": "OPEN",
+    "quota": "All India Quota (AIQ)",
+    "records": [
+      { "year": 2019, "openingRank": 500, "closingRank": 4500, "closingScore": 577 },
+      { "year": 2020, "openingRank": 475, "closingRank": 4280, "closingScore": 580 },
+      { "year": 2021, "openingRank": 528, "closingRank": 4720, "closingScore": 573 },
+      { "year": 2022, "openingRank": 445, "closingRank": 4050, "closingScore": 584 },
+      { "year": 2023, "openingRank": 488, "closingRank": 4420, "closingScore": 578 }
+    ]
+  },
+  {
+    "institute": "AIIMS Jodhpur",
+    "instituteType": "AIIMS",
+    "branch": "MBBS",
+    "branchCode": "MBBS",
+    "category": "OPEN",
+    "quota": "All India Quota (AIQ)",
+    "records": [
+      { "year": 2019, "openingRank": 60, "closingRank": 580, "closingScore": 636 },
+      { "year": 2020, "openingRank": 58, "closingRank": 552, "closingScore": 639 },
+      { "year": 2021, "openingRank": 64, "closingRank": 605, "closingScore": 633 },
+      { "year": 2022, "openingRank": 52, "closingRank": 525, "closingScore": 642 },
+      { "year": 2023, "openingRank": 58, "closingRank": 568, "closingScore": 637 }
+    ]
+  },
+  {
+    "institute": "AIIMS Bhopal",
+    "instituteType": "AIIMS",
+    "branch": "MBBS",
+    "branchCode": "MBBS",
+    "category": "OPEN",
+    "quota": "All India Quota (AIQ)",
+    "records": [
+      { "year": 2019, "openingRank": 85, "closingRank": 820, "closingScore": 628 },
+      { "year": 2020, "openingRank": 80, "closingRank": 780, "closingScore": 631 },
+      { "year": 2021, "openingRank": 90, "closingRank": 856, "closingScore": 625 },
+      { "year": 2022, "openingRank": 72, "closingRank": 740, "closingScore": 634 },
+      { "year": 2023, "openingRank": 82, "closingRank": 802, "closingScore": 629 }
+    ]
+  }
+]

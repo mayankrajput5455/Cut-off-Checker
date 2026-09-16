@@ -1,0 +1,227 @@
+[
+  {
+    "institute": "NIT Trichy",
+    "instituteType": "NIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "OS",
+    "records": [
+      { "year": 2019, "openingRank": 1800, "closingRank": 3250 },
+      { "year": 2020, "openingRank": 1680, "closingRank": 3120 },
+      { "year": 2021, "openingRank": 1950, "closingRank": 3380 },
+      { "year": 2022, "openingRank": 1520, "closingRank": 2950 },
+      { "year": 2023, "openingRank": 1750, "closingRank": 3180 }
+    ]
+  },
+  {
+    "institute": "NIT Trichy",
+    "instituteType": "NIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OBC-NCL",
+    "quota": "OS",
+    "records": [
+      { "year": 2019, "openingRank": 750, "closingRank": 1350 },
+      { "year": 2020, "openingRank": 700, "closingRank": 1280 },
+      { "year": 2021, "openingRank": 795, "closingRank": 1410 },
+      { "year": 2022, "openingRank": 630, "closingRank": 1210 },
+      { "year": 2023, "openingRank": 720, "closingRank": 1320 }
+    ]
+  },
+  {
+    "institute": "NIT Trichy",
+    "instituteType": "NIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "SC",
+    "quota": "OS",
+    "records": [
+      { "year": 2019, "openingRank": 280, "closingRank": 620 },
+      { "year": 2020, "openingRank": 260, "closingRank": 590 },
+      { "year": 2021, "openingRank": 295, "closingRank": 648 },
+      { "year": 2022, "openingRank": 235, "closingRank": 558 },
+      { "year": 2023, "openingRank": 270, "closingRank": 610 }
+    ]
+  },
+  {
+    "institute": "NIT Trichy",
+    "instituteType": "NIT",
+    "branch": "Electronics and Communication Engineering",
+    "branchCode": "ECE",
+    "category": "OPEN",
+    "quota": "OS",
+    "records": [
+      { "year": 2019, "openingRank": 3500, "closingRank": 6400 },
+      { "year": 2020, "openingRank": 3320, "closingRank": 6180 },
+      { "year": 2021, "openingRank": 3680, "closingRank": 6620 },
+      { "year": 2022, "openingRank": 3100, "closingRank": 5850 },
+      { "year": 2023, "openingRank": 3420, "closingRank": 6280 }
+    ]
+  },
+  {
+    "institute": "NIT Warangal",
+    "instituteType": "NIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "OS",
+    "records": [
+      { "year": 2019, "openingRank": 2200, "closingRank": 4500 },
+      { "year": 2020, "openingRank": 2080, "closingRank": 4320 },
+      { "year": 2021, "openingRank": 2340, "closingRank": 4680 },
+      { "year": 2022, "openingRank": 1950, "closingRank": 4080 },
+      { "year": 2023, "openingRank": 2150, "closingRank": 4420 }
+    ]
+  },
+  {
+    "institute": "NIT Warangal",
+    "instituteType": "NIT",
+    "branch": "Electronics and Communication Engineering",
+    "branchCode": "ECE",
+    "category": "OPEN",
+    "quota": "OS",
+    "records": [
+      { "year": 2019, "openingRank": 4800, "closingRank": 8500 },
+      { "year": 2020, "openingRank": 4560, "closingRank": 8150 },
+      { "year": 2021, "openingRank": 5020, "closingRank": 8820 },
+      { "year": 2022, "openingRank": 4280, "closingRank": 7720 },
+      { "year": 2023, "openingRank": 4680, "closingRank": 8350 }
+    ]
+  },
+  {
+    "institute": "NIT Surathkal (NITK)",
+    "instituteType": "NIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "OS",
+    "records": [
+      { "year": 2019, "openingRank": 2800, "closingRank": 5200 },
+      { "year": 2020, "openingRank": 2660, "closingRank": 4980 },
+      { "year": 2021, "openingRank": 2940, "closingRank": 5420 },
+      { "year": 2022, "openingRank": 2480, "closingRank": 4720 },
+      { "year": 2023, "openingRank": 2750, "closingRank": 5100 }
+    ]
+  },
+  {
+    "institute": "IIIT Hyderabad",
+    "instituteType": "IIIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "OS",
+    "records": [
+      { "year": 2019, "openingRank": 1200, "closingRank": 2450 },
+      { "year": 2020, "openingRank": 1140, "closingRank": 2330 },
+      { "year": 2021, "openingRank": 1260, "closingRank": 2540 },
+      { "year": 2022, "openingRank": 1060, "closingRank": 2210 },
+      { "year": 2023, "openingRank": 1180, "closingRank": 2400 }
+    ]
+  },
+  {
+    "institute": "IIIT Hyderabad",
+    "instituteType": "IIIT",
+    "branch": "Electronics and Communication Engineering",
+    "branchCode": "ECE",
+    "category": "OPEN",
+    "quota": "OS",
+    "records": [
+      { "year": 2019, "openingRank": 2600, "closingRank": 4800 },
+      { "year": 2020, "openingRank": 2470, "closingRank": 4580 },
+      { "year": 2021, "openingRank": 2720, "closingRank": 4980 },
+      { "year": 2022, "openingRank": 2310, "closingRank": 4360 },
+      { "year": 2023, "openingRank": 2550, "closingRank": 4720 }
+    ]
+  },
+  {
+    "institute": "NIT Allahabad (MNNIT)",
+    "instituteType": "NIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "HS",
+    "records": [
+      { "year": 2019, "openingRank": 5200, "closingRank": 10800 },
+      { "year": 2020, "openingRank": 4950, "closingRank": 10350 },
+      { "year": 2021, "openingRank": 5480, "closingRank": 11200 },
+      { "year": 2022, "openingRank": 4650, "closingRank": 9850 },
+      { "year": 2023, "openingRank": 5100, "closingRank": 10600 }
+    ]
+  },
+  {
+    "institute": "NIT Allahabad (MNNIT)",
+    "instituteType": "NIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OBC-NCL",
+    "quota": "HS",
+    "records": [
+      { "year": 2019, "openingRank": 1800, "closingRank": 3950 },
+      { "year": 2020, "openingRank": 1710, "closingRank": 3780 },
+      { "year": 2021, "openingRank": 1890, "closingRank": 4120 },
+      { "year": 2022, "openingRank": 1605, "closingRank": 3580 },
+      { "year": 2023, "openingRank": 1760, "closingRank": 3880 }
+    ]
+  },
+  {
+    "institute": "NIT Allahabad (MNNIT)",
+    "instituteType": "NIT",
+    "branch": "Electronics and Communication Engineering",
+    "branchCode": "ECE",
+    "category": "OPEN",
+    "quota": "HS",
+    "records": [
+      { "year": 2019, "openingRank": 10500, "closingRank": 19800 },
+      { "year": 2020, "openingRank": 9980, "closingRank": 18950 },
+      { "year": 2021, "openingRank": 11020, "closingRank": 20500 },
+      { "year": 2022, "openingRank": 9400, "closingRank": 18050 },
+      { "year": 2023, "openingRank": 10250, "closingRank": 19400 }
+    ]
+  },
+  {
+    "institute": "NIT Allahabad (MNNIT)",
+    "instituteType": "NIT",
+    "branch": "Mechanical Engineering",
+    "branchCode": "ME",
+    "category": "OPEN",
+    "quota": "HS",
+    "records": [
+      { "year": 2019, "openingRank": 18000, "closingRank": 34500 },
+      { "year": 2020, "openingRank": 17100, "closingRank": 32900 },
+      { "year": 2021, "openingRank": 18900, "closingRank": 35800 },
+      { "year": 2022, "openingRank": 16100, "closingRank": 31200 },
+      { "year": 2023, "openingRank": 17600, "closingRank": 33800 }
+    ]
+  },
+  {
+    "institute": "NIT Jaipur (MNIT)",
+    "instituteType": "NIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "OPEN",
+    "quota": "OS",
+    "records": [
+      { "year": 2019, "openingRank": 4500, "closingRank": 8200 },
+      { "year": 2020, "openingRank": 4280, "closingRank": 7850 },
+      { "year": 2021, "openingRank": 4720, "closingRank": 8540 },
+      { "year": 2022, "openingRank": 4010, "closingRank": 7450 },
+      { "year": 2023, "openingRank": 4420, "closingRank": 8060 }
+    ]
+  },
+  {
+    "institute": "NIT Trichy",
+    "instituteType": "NIT",
+    "branch": "Mechanical Engineering",
+    "branchCode": "ME",
+    "category": "OPEN",
+    "quota": "OS",
+    "records": [
+      { "year": 2019, "openingRank": 7200, "closingRank": 13500 },
+      { "year": 2020, "openingRank": 6840, "closingRank": 12900 },
+      { "year": 2021, "openingRank": 7560, "closingRank": 14020 },
+      { "year": 2022, "openingRank": 6450, "closingRank": 12250 },
+      { "year": 2023, "openingRank": 7080, "closingRank": 13250 }
+    ]
+  }
+]

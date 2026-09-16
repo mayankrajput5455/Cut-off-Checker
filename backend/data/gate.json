@@ -1,0 +1,137 @@
+[
+  {
+    "institute": "IIT Bombay (M.Tech)",
+    "instituteType": "IIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "General",
+    "quota": "COAP",
+    "records": [
+      { "year": 2019, "cutoffScore": 780, "maxScore": 1000 },
+      { "year": 2020, "cutoffScore": 755, "maxScore": 1000 },
+      { "year": 2021, "cutoffScore": 762, "maxScore": 1000 },
+      { "year": 2022, "cutoffScore": 790, "maxScore": 1000 },
+      { "year": 2023, "cutoffScore": 775, "maxScore": 1000 }
+    ]
+  },
+  {
+    "institute": "IIT Delhi (M.Tech)",
+    "instituteType": "IIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "General",
+    "quota": "COAP",
+    "records": [
+      { "year": 2019, "cutoffScore": 760, "maxScore": 1000 },
+      { "year": 2020, "cutoffScore": 742, "maxScore": 1000 },
+      { "year": 2021, "cutoffScore": 750, "maxScore": 1000 },
+      { "year": 2022, "cutoffScore": 772, "maxScore": 1000 },
+      { "year": 2023, "cutoffScore": 758, "maxScore": 1000 }
+    ]
+  },
+  {
+    "institute": "IIT Madras (M.Tech)",
+    "instituteType": "IIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "General",
+    "quota": "COAP",
+    "records": [
+      { "year": 2019, "cutoffScore": 755, "maxScore": 1000 },
+      { "year": 2020, "cutoffScore": 738, "maxScore": 1000 },
+      { "year": 2021, "cutoffScore": 745, "maxScore": 1000 },
+      { "year": 2022, "cutoffScore": 768, "maxScore": 1000 },
+      { "year": 2023, "cutoffScore": 752, "maxScore": 1000 }
+    ]
+  },
+  {
+    "institute": "NIT Trichy (M.Tech)",
+    "instituteType": "NIT",
+    "branch": "Computer Science and Engineering",
+    "branchCode": "CS",
+    "category": "General",
+    "quota": "CCMT",
+    "records": [
+      { "year": 2019, "cutoffScore": 620, "maxScore": 1000 },
+      { "year": 2020, "cutoffScore": 600, "maxScore": 1000 },
+      { "year": 2021, "cutoffScore": 610, "maxScore": 1000 },
+      { "year": 2022, "cutoffScore": 635, "maxScore": 1000 },
+      { "year": 2023, "cutoffScore": 622, "maxScore": 1000 }
+    ]
+  },
+  {
+    "institute": "IIT Kharagpur (M.Tech)",
+    "instituteType": "IIT",
+    "branch": "Electronics and Communication Engineering",
+    "branchCode": "ECE",
+    "category": "General",
+    "quota": "COAP",
+    "records": [
+      { "year": 2019, "cutoffScore": 680, "maxScore": 1000 },
+      { "year": 2020, "cutoffScore": 658, "maxScore": 1000 },
+      { "year": 2021, "cutoffScore": 665, "maxScore": 1000 },
+      { "year": 2022, "cutoffScore": 692, "maxScore": 1000 },
+      { "year": 2023, "cutoffScore": 675, "maxScore": 1000 }
+    ]
+  },
+  {
+    "institute": "PSU - ONGC (Recruitment via GATE)",
+    "instituteType": "PSU",
+    "branch": "Computer Science and Information Technology",
+    "branchCode": "CS",
+    "category": "General",
+    "quota": "Direct PSU Recruitment",
+    "records": [
+      { "year": 2019, "cutoffScore": 720, "maxScore": 1000 },
+      { "year": 2020, "cutoffScore": 698, "maxScore": 1000 },
+      { "year": 2021, "cutoffScore": 708, "maxScore": 1000 },
+      { "year": 2022, "cutoffScore": 735, "maxScore": 1000 },
+      { "year": 2023, "cutoffScore": 718, "maxScore": 1000 }
+    ]
+  },
+  {
+    "institute": "PSU - IOCL (Recruitment via GATE)",
+    "instituteType": "PSU",
+    "branch": "Mechanical Engineering",
+    "branchCode": "ME",
+    "category": "General",
+    "quota": "Direct PSU Recruitment",
+    "records": [
+      { "year": 2019, "cutoffScore": 650, "maxScore": 1000 },
+      { "year": 2020, "cutoffScore": 628, "maxScore": 1000 },
+      { "year": 2021, "cutoffScore": 638, "maxScore": 1000 },
+      { "year": 2022, "cutoffScore": 662, "maxScore": 1000 },
+      { "year": 2023, "cutoffScore": 648, "maxScore": 1000 }
+    ]
+  },
+  {
+    "institute": "PSU - NTPC (Recruitment via GATE)",
+    "instituteType": "PSU",
+    "branch": "Electrical Engineering",
+    "branchCode": "EE",
+    "category": "General",
+    "quota": "Direct PSU Recruitment",
+    "records": [
+      { "year": 2019, "cutoffScore": 620, "maxScore": 1000 },
+      { "year": 2020, "cutoffScore": 598, "maxScore": 1000 },
+      { "year": 2021, "cutoffScore": 608, "maxScore": 1000 },
+      { "year": 2022, "cutoffScore": 632, "maxScore": 1000 },
+      { "year": 2023, "cutoffScore": 618, "maxScore": 1000 }
+    ]
+  },
+  {
+    "institute": "NIT Warangal (M.Tech)",
+    "instituteType": "NIT",
+    "branch": "Electrical Engineering",
+    "branchCode": "EE",
+    "category": "General",
+    "quota": "CCMT",
+    "records": [
+      { "year": 2019, "cutoffScore": 540, "maxScore": 1000 },
+      { "year": 2020, "cutoffScore": 520, "maxScore": 1000 },
+      { "year": 2021, "cutoffScore": 528, "maxScore": 1000 },
+      { "year": 2022, "cutoffScore": 555, "maxScore": 1000 },
+      { "year": 2023, "cutoffScore": 540, "maxScore": 1000 }
+    ]
+  }
+]

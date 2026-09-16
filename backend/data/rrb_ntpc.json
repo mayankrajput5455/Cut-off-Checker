@@ -1,0 +1,114 @@
+[
+  {
+    "institute": "RRB — Zone General Posts (CBT-1 Cutoff)",
+    "branch": "Junior Time Keeper",
+    "category": "General",
+    "quota": "CBT Stage 1",
+    "instituteType": "Railway Zone",
+    "records": [
+      { "year": 2023, "cutoffScore": 75.2 },
+      { "year": 2022, "cutoffScore": 73.8 },
+      { "year": 2021, "cutoffScore": 76.5 },
+      { "year": 2020, "cutoffScore": 72.5 },
+      { "year": 2019, "cutoffScore": 71.0 }
+    ]
+  },
+  {
+    "institute": "RRB — Zone General Posts (CBT-1 Cutoff)",
+    "branch": "Junior Time Keeper",
+    "category": "OBC",
+    "quota": "CBT Stage 1",
+    "instituteType": "Railway Zone",
+    "records": [
+      { "year": 2023, "cutoffScore": 70.5 },
+      { "year": 2022, "cutoffScore": 69.2 },
+      { "year": 2021, "cutoffScore": 71.8 },
+      { "year": 2020, "cutoffScore": 68.0 },
+      { "year": 2019, "cutoffScore": 66.5 }
+    ]
+  },
+  {
+    "institute": "RRB — Zone General Posts (CBT-1 Cutoff)",
+    "branch": "Junior Time Keeper",
+    "category": "SC",
+    "quota": "CBT Stage 1",
+    "instituteType": "Railway Zone",
+    "records": [
+      { "year": 2023, "cutoffScore": 61.0 },
+      { "year": 2022, "cutoffScore": 59.8 },
+      { "year": 2021, "cutoffScore": 62.5 },
+      { "year": 2020, "cutoffScore": 58.5 },
+      { "year": 2019, "cutoffScore": 57.0 }
+    ]
+  },
+  {
+    "institute": "RRB — Zone General Posts (CBT-1 Cutoff)",
+    "branch": "Accounts Clerk Cum Typist",
+    "category": "General",
+    "quota": "CBT Stage 1",
+    "instituteType": "Railway Zone",
+    "records": [
+      { "year": 2023, "cutoffScore": 77.0 },
+      { "year": 2022, "cutoffScore": 75.5 },
+      { "year": 2021, "cutoffScore": 78.5 },
+      { "year": 2020, "cutoffScore": 74.0 },
+      { "year": 2019, "cutoffScore": 72.5 }
+    ]
+  },
+  {
+    "institute": "RRB — Zone General Posts (CBT-1 Cutoff)",
+    "branch": "Accounts Clerk Cum Typist",
+    "category": "OBC",
+    "quota": "CBT Stage 1",
+    "instituteType": "Railway Zone",
+    "records": [
+      { "year": 2023, "cutoffScore": 72.5 },
+      { "year": 2022, "cutoffScore": 71.0 },
+      { "year": 2021, "cutoffScore": 74.0 },
+      { "year": 2020, "cutoffScore": 69.5 },
+      { "year": 2019, "cutoffScore": 68.0 }
+    ]
+  },
+  {
+    "institute": "RRB — Zone Level 6 Posts",
+    "branch": "Station Master",
+    "category": "General",
+    "quota": "CBT Stage 2",
+    "instituteType": "Railway Zone",
+    "records": [
+      { "year": 2023, "cutoffScore": 68.5 },
+      { "year": 2022, "cutoffScore": 67.0 },
+      { "year": 2021, "cutoffScore": 70.0 },
+      { "year": 2020, "cutoffScore": 65.5 },
+      { "year": 2019, "cutoffScore": 64.0 }
+    ]
+  },
+  {
+    "institute": "RRB — Zone Level 6 Posts",
+    "branch": "Station Master",
+    "category": "SC",
+    "quota": "CBT Stage 2",
+    "instituteType": "Railway Zone",
+    "records": [
+      { "year": 2023, "cutoffScore": 55.5 },
+      { "year": 2022, "cutoffScore": 54.0 },
+      { "year": 2021, "cutoffScore": 57.0 },
+      { "year": 2020, "cutoffScore": 52.5 },
+      { "year": 2019, "cutoffScore": 51.0 }
+    ]
+  },
+  {
+    "institute": "RRB — Zone Level 6 Posts",
+    "branch": "Goods Guard",
+    "category": "General",
+    "quota": "CBT Stage 2",
+    "instituteType": "Railway Zone",
+    "records": [
+      { "year": 2023, "cutoffScore": 65.0 },
+      { "year": 2022, "cutoffScore": 63.5 },
+      { "year": 2021, "cutoffScore": 66.5 },
+      { "year": 2020, "cutoffScore": 62.0 },
+      { "year": 2019, "cutoffScore": 60.5 }
+    ]
+  }
+]

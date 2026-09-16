@@ -1,0 +1,128 @@
+[
+  {
+    "institute": "AIIMS Delhi — PG Programs",
+    "branch": "MD General Medicine",
+    "category": "General",
+    "quota": "All India",
+    "instituteType": "AIIMS",
+    "records": [
+      { "year": 2023, "closingRank": 8 },
+      { "year": 2022, "closingRank": 7 },
+      { "year": 2021, "closingRank": 9 },
+      { "year": 2020, "closingRank": 10 },
+      { "year": 2019, "closingRank": 11 }
+    ]
+  },
+  {
+    "institute": "AIIMS Delhi — PG Programs",
+    "branch": "MS General Surgery",
+    "category": "General",
+    "quota": "All India",
+    "instituteType": "AIIMS",
+    "records": [
+      { "year": 2023, "closingRank": 22 },
+      { "year": 2022, "closingRank": 20 },
+      { "year": 2021, "closingRank": 25 },
+      { "year": 2020, "closingRank": 28 },
+      { "year": 2019, "closingRank": 30 }
+    ]
+  },
+  {
+    "institute": "AIIMS Delhi — PG Programs",
+    "branch": "MD Radiology",
+    "category": "General",
+    "quota": "All India",
+    "instituteType": "AIIMS",
+    "records": [
+      { "year": 2023, "closingRank": 45 },
+      { "year": 2022, "closingRank": 42 },
+      { "year": 2021, "closingRank": 48 },
+      { "year": 2020, "closingRank": 52 },
+      { "year": 2019, "closingRank": 55 }
+    ]
+  },
+  {
+    "institute": "PGIMER Chandigarh",
+    "branch": "MD General Medicine",
+    "category": "General",
+    "quota": "All India",
+    "instituteType": "Premier Medical Institute",
+    "records": [
+      { "year": 2023, "closingRank": 80 },
+      { "year": 2022, "closingRank": 75 },
+      { "year": 2021, "closingRank": 88 },
+      { "year": 2020, "closingRank": 94 },
+      { "year": 2019, "closingRank": 100 }
+    ]
+  },
+  {
+    "institute": "PGIMER Chandigarh",
+    "branch": "MS Orthopaedics",
+    "category": "General",
+    "quota": "All India",
+    "instituteType": "Premier Medical Institute",
+    "records": [
+      { "year": 2023, "closingRank": 220 },
+      { "year": 2022, "closingRank": 205 },
+      { "year": 2021, "closingRank": 235 },
+      { "year": 2020, "closingRank": 248 },
+      { "year": 2019, "closingRank": 260 }
+    ]
+  },
+  {
+    "institute": "Maulana Azad Medical College (MAMC) Delhi",
+    "branch": "MD General Medicine",
+    "category": "General",
+    "quota": "All India",
+    "instituteType": "State Medical College",
+    "records": [
+      { "year": 2023, "closingRank": 150 },
+      { "year": 2022, "closingRank": 140 },
+      { "year": 2021, "closingRank": 162 },
+      { "year": 2020, "closingRank": 175 },
+      { "year": 2019, "closingRank": 185 }
+    ]
+  },
+  {
+    "institute": "Maulana Azad Medical College (MAMC) Delhi",
+    "branch": "MD Paediatrics",
+    "category": "OBC",
+    "quota": "All India",
+    "instituteType": "State Medical College",
+    "records": [
+      { "year": 2023, "closingRank": 480 },
+      { "year": 2022, "closingRank": 455 },
+      { "year": 2021, "closingRank": 508 },
+      { "year": 2020, "closingRank": 530 },
+      { "year": 2019, "closingRank": 548 }
+    ]
+  },
+  {
+    "institute": "Grant Medical College Mumbai",
+    "branch": "MS General Surgery",
+    "category": "General",
+    "quota": "All India",
+    "instituteType": "State Medical College",
+    "records": [
+      { "year": 2023, "closingRank": 380 },
+      { "year": 2022, "closingRank": 360 },
+      { "year": 2021, "closingRank": 400 },
+      { "year": 2020, "closingRank": 420 },
+      { "year": 2019, "closingRank": 440 }
+    ]
+  },
+  {
+    "institute": "Grant Medical College Mumbai",
+    "branch": "MD Radiology",
+    "category": "SC",
+    "quota": "All India",
+    "instituteType": "State Medical College",
+    "records": [
+      { "year": 2023, "closingRank": 1800 },
+      { "year": 2022, "closingRank": 1720 },
+      { "year": 2021, "closingRank": 1880 },
+      { "year": 2020, "closingRank": 1950 },
+      { "year": 2019, "closingRank": 2000 }
+    ]
+  }
+]
